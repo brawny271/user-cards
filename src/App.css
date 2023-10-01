@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(160deg, #e7d7f8 20%, #b0d2d3 80%);
+}
